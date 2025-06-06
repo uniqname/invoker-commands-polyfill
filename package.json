@@ -1,0 +1,25 @@
+{
+  "name": "invoker-commands-polyfill",
+  "version": "1.0.0",
+  "description": "A drop-in polyfill for the Invoker Commands API",
+  "keywords": [
+    "invoker",
+    "command",
+    "polyfill"
+  ],
+  "homepage": "https://github.com/uniqname/invoker-commands-polyfill#readme",
+  "bugs": {
+    "url": "https://github.com/uniqname/invoker-commands-polyfill/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniqname/invoker-commands-polyfill.git"
+  },
+  "license": "MIT",
+  "author": "Cory Brown <oh.wise.man@gmail.com>",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
